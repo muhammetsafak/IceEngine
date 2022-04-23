@@ -1,10 +1,12 @@
 # IceEngine
 ICE Engine : Basic PHP Template Engine
 
+[![Latest Stable Version](http://poser.pugx.org/muhammetsafak/ice-engine/v)](https://packagist.org/packages/muhammetsafak/ice-engine) [![Total Downloads](http://poser.pugx.org/muhammetsafak/ice-engine/downloads)](https://packagist.org/packages/muhammetsafak/ice-engine) [![Latest Unstable Version](http://poser.pugx.org/muhammetsafak/ice-engine/v/unstable)](https://packagist.org/packages/muhammetsafak/ice-engine) [![License](http://poser.pugx.org/muhammetsafak/ice-engine/license)](https://packagist.org/packages/muhammetsafak/ice-engine) [![PHP Version Require](http://poser.pugx.org/muhammetsafak/ice-engine/require/php)](https://packagist.org/packages/muhammetsafak/ice-engine)
+
 ## Installation
 
 ```
-composer require muhametsafak/ice-engine
+composer require muhammetsafak/ice-engine
 ```
 
 ![iceengine](https://user-images.githubusercontent.com/9823597/148836439-e5c99304-29c0-4be9-b903-f80dbb7229ed.png)
