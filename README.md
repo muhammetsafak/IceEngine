@@ -296,4 +296,4 @@ In this example, IceEngine generates HTML like this:
 
 ## License
 
-This library was developed by [Muhammet ŞAFAK](https://www.muhammetsafak.com.tr) and distributed under the [MIT License](https://github.com/muhametsafak/IceEngine/blob/main/LICENSE).
+This library was developed by [Muhammet ŞAFAK](https://www.muhammetsafak.com.tr) and distributed under the [MIT License](./LICENSE).
