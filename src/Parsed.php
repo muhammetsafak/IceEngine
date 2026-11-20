@@ -4,11 +4,11 @@
  *
  * This file is part of IceEngine.
  *
- * @author     Muhammet ŞAFAK <info@muhammetsafak.com.tr>
+ * @author     Muhammet ŞAFAK <info@muhammetsafak.com>
  * @copyright  Copyright © 2022 IceEngine
  * @license    https://github.com/muhametsafak/IceEngine/blob/main/LICENSE  MIT
  * @version    0.3
- * @link       https://www.muhammetsafak.com.tr
+ * @link       https://muhammetsafak.com
  */
 
 declare(strict_types=1);
